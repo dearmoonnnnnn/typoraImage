@@ -1,2 +1,0 @@
-# typoraImage
-save typora images
